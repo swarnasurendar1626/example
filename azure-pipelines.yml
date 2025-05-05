@@ -10,7 +10,7 @@ resources:
   repositories:
     - repository: githubrepo
       type: github
-      name: example
+      name: swarnasurendar1626/example
       endpoint: github_Service_Connection
 
 pool:
