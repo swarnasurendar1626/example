@@ -14,7 +14,7 @@ resources:
       endpoint: github_Service_Connection
 
 pool:
-  vmImage: FirstAgent
+  name: AgentPool
 
 steps:
 - task: Maven@3
